@@ -1,0 +1,3 @@
+#gitignore file
+*.txt
+!t3.txt
